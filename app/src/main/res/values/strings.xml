@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Практика номер 14</string>
+    <string name="email_text_view">Введите свой Email</string>
+    <string name="name_text_view">Введите своё имя</string>
+    <string name="age_text_view">Введите свой возрост</string>
+    <string name="respond_button">Переход</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Имя</string>
+    <string name="hint_age">Возраст</string>
+</resources>
